@@ -13,8 +13,7 @@ Homer Davis
 This project uses different functions in javascript to display an interactive photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://had14b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. I learned that the document object represents the Web page displayed in a browser.
