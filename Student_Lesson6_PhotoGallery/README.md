@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Homer Davis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project uses different functions in javascript to display an interactive photo gallery.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that the document object represents the Web page displayed in a browser.
+2. I learned that Dynamic HTML (DHTML) can change content of web page without reloading.
+3. I learned how to insert and remove nodes.
